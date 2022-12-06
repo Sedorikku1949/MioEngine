@@ -1,0 +1,20 @@
+[client]
+version = "0.0.1"
+build_type = "alpha"
+dev = true
+
+[params]
+status = [
+  { status_type = "WATCHING", message = "la neige ☃️" },
+  { status_type = "PLAYING", message = "au poker 🃏" }
+]
+status_time = 120 # 2 minutes, time in seconds
+auto_status = true
+prefix = "&"
+
+[security]
+rewrite_archive_if_invalid = true
+auto_save_archive = true
+
+[i18n]
+locales_dir = "./locales"

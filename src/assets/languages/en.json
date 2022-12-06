@@ -1,0 +1,9 @@
+{
+  "code": "en-EN",
+  "test": "Hello",
+  "fine_question": [
+    { "index": 0, "message": "How " },
+    { "index": 1, "message": "are " },
+    { "index": 2, "message": "you ?" }
+  ]
+}

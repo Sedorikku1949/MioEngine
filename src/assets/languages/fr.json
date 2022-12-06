@@ -1,0 +1,9 @@
+{
+  "code": "fr-FR",
+  "test": "Bonjour",
+  "fine_question": [
+    { "index": 0, "message": "Comment " },
+    { "index": 1, "message": "allez " },
+    { "index": 2, "message": "vous ?" }
+  ]
+}
